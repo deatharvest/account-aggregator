@@ -71,8 +71,8 @@ gen### Example user template template
 .idea
 *.iml
 out
-gen
 .gitignore
 .idea/
 account-aggregator.iml
 pom.xml
+/target/
