@@ -76,3 +76,5 @@ out
 account-aggregator.iml
 pom.xml
 /target/
+/account-email/target/
+/account-persist/target/
